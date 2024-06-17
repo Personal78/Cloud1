@@ -1,0 +1,1 @@
+IAM role 'AWS-s3-glue-redshift-role' created with the specified permissions.
